@@ -1,2 +1,3 @@
-# tickjs
-New structure to my Ticker repo. Gonna start from scratch with Typescript.
+# Tickjs
+
+Tickjs is a game loop style utility node module.
